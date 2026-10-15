@@ -10,7 +10,7 @@ Tài liệu này hướng dẫn thành viên mới bắt đầu tham gia CLB.
 
 |Tên ban|Trưởng ban|Liên hệ|
 |-|-|-|
-|Ban kĩ thuật|Vũ Quốc Linh|[minhan@ptit.edu.vn](mailto:minhan@ptit.edu.vn)|
+|Ban kĩ thuật|Vũ Quốc Linh|[linhvulinh55@ptit.edu.vn](mailto:minhan@ptit.edu.vn)|
 |Ban Nội dung|Trần Thu Hà|[thuha@ptit.edu.vn](mailto:thuha@ptit.edu.vn)|
 |Ban Truyền Thông|Lê Hoàng Nam|[hoangnam@ptit.edu.vn](mailto:hoangnam@ptit.edu.vn)|
 _Tên thành viên và email trong bài là dữ liệu giả định phục vụ học tập._
