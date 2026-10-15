@@ -1,12 +1,12 @@
 # YÊU CẦU ĐẦU RA
 
-# CLB Lập trình PTIT
+## CLB Lập trình PTIT
 
-## 1. Giới thiệu CLB
+### 1. Giới thiệu CLB:
 
 CLB Lập trình PTIT là nơi sinh viên cùng học tập, trao đổi kiến thức và thực hành lập trình. CLB chú trọng **học qua thực hành, hỗ trợ người mới và làm việc nhóm**.
 Tài liệu này hướng dẫn thành viên mới bắt đầu tham gia CLB.
-## 2. Danh sách Ban
+### 2. Danh sách Ban và người phụ trách ban:
 
 |Tên ban|Trưởng ban|Liên hệ|
 |-|-|-|
@@ -15,7 +15,7 @@ Tài liệu này hướng dẫn thành viên mới bắt đầu tham gia CLB.
 |Ban Truyền Thông|Lê Hoàng Nam|[hoangnam@ptit.edu.vn](mailto:hoangnam@ptit.edu.vn)|
 _Tên thành viên và email trong bài là dữ liệu giả định phục vụ học tập._
 
-## 3. Hướng dẫn Gia nhập
+### 3. Hướng dẫn Gia nhập CLB:
 
 1.  Gửi email cho Ban Kỹ thuật, giới thiệu họ tên, lớp và mong muốn khi tham gia CLB.
     
@@ -37,7 +37,7 @@ _Tên thành viên và email trong bài là dữ liệu giả định phục v�
 5.  Đọc `README.md`, hoàn thành checklist bên dưới và báo kết quả cho Ban Kỹ thuật.
     
 
-## 4. Checklist Nhiệm vụ Thành viên Mới
+### 4. Checklist Nhiệm vụ Thành viên Mới:
 
 Checklist minh họa tiến độ của một thành viên mới:
 
@@ -49,7 +49,7 @@ Checklist minh họa tiến độ của một thành viên mới:
 - [ ] :  Viết chương trình đầu tiên in ra dòng chữ "Hello PTIT!".
 - [ ] :  Báo cáo kết quả cho Ban Kỹ thuật.
 
-## 5. Lưu ý quan trọng
+### 5. Lưu ý quan trọng;
 
 > **Deadline:** Thành viên mới hoàn thành checklist trong vòng **7 ngày kể từ ngày được xác nhận gia nhập**.
 > 
